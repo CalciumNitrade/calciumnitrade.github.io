@@ -59,7 +59,7 @@ education:
   - area: PhD, Computer Engineering
     institution: Texas A&M University
     date_start: 2024-01-01
-    date_end: 2027-12-31
+    date_end: 2027-12-30
     summary: |
       Working on generative AI for materials science, supervised by [Dr. Hasan Kurban](https://www.hasankurban.com/).
   - area: MSc, Phyiscs
@@ -71,7 +71,7 @@ education:
   - area: BSc, Applied Physics
     institution: Hacettepe University
     date_start: 2014-09-01
-    date_end: 2019-06-31
+    date_end: 2019-06-30
     summary: |
       Top Ranking graduate.
 work:
