@@ -10,8 +10,8 @@ first_name: Can
 last_name: Polat
 
 # Status emoji
-status:
-  icon: ☕️
+#status:
+#  icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,13 +20,13 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Ph.D. Student | Senior Machine Learning Engineer
+role: Ph.D. Student | Machine Learning Engineer
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: Texas A&M University
     url: https://www.tamu.edu/index.html
-  - name: Can Polat Yazilim Bilisim & Danismanlik LTD. STI.
+  - name: Can Polat Y. B. & D. LTD. STI.
 
     
 
