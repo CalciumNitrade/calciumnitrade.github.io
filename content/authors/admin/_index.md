@@ -61,7 +61,7 @@ education:
     date_start: 2024-01-01
     date_end: 2027-12-30
     summary: |
-      Working on generative AI for materials science, supervised by [Dr. Hasan Kurban](https://www.hasankurban.com/).
+      Working on generative AI for materials science at [Kurban Intelligence Lab](https://kurbanintelligencelab.com/), lead by [Dr. Hasan Kurban](https://www.hasankurban.com/).
   - area: MSc, Phyiscs
     institution: Bogazici University
     date_start: 2019-08-30
