@@ -36,18 +36,18 @@ profiles:
   - icon: at-symbol
     url: 'mailto:can.polat0@yahoo.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://x.com/Johnpolat
-  - icon: brands/instagram
-    url: https://www.instagram.com/johnpolat/
-  - icon: brands/github
-    url: https://github.com/CalciumNitrade
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/in/thecanpolat/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=ZtdUrpsAAAAJ&hl=en
   - icon: academicons/orcid
     url: https://orcid.org/0000-0002-1458-302X
+  - icon: brands/github
+    url: https://github.com/CalciumNitrade
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/thecanpolat/
+  - icon: brands/x
+    url: https://x.com/Johnpolat
+  - icon: brands/instagram
+    url: https://www.instagram.com/johnpolat/
 
 interests:
   - Machine Learning
@@ -61,7 +61,7 @@ education:
     date_start: 2024-01-01
     date_end: 2027-12-30
     summary: |
-      Working on generative AI for materials science at [Kurban Intelligence Lab](https://kurbanintelligencelab.com/), lead by [Dr. Hasan Kurban](https://www.hasankurban.com/).
+      Working on generative AI for materials science at <a href="https://kurbanintelligencelab.com/">Kurban Intelligence Lab</a>, led by <a href="https://www.hasankurban.com/">Dr. Hasan Kurban</a>.
   - area: MSc, Phyiscs
     institution: Bogazici University
     date_start: 2019-08-30
