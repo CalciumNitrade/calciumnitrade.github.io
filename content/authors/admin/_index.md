@@ -79,8 +79,8 @@ work:
     company_name: Wavebreak Media Ltd.
     company_url: ''
     company_logo: ''
-    date_start: 2022-11
-    date_end: 2024-09
+    date_start: 2022-11-01
+    date_end: 2024-09-01
     summary: |2-
       - Use and research of state-of-the-art computer vision models to create visual content. These methods include diffusion models for text-to-image generation, captioning for clustering, object detection for template creation, and superresolution.
       - Recommendation systems.
@@ -92,16 +92,16 @@ work:
     company_name: Aselsan Inc.
     company_url: ''
     company_logo: ''
-    date_start: 2021-08
-    date_end: 2022-11
+    date_start: 2021-08-01
+    date_end: 2022-11-01
     summary: |
       - Leveraged computer graphics, computational imaging, and signal processing tools, including raytracing, Fourier optics, computer vision, and deep learning, to pioneer the design and development of cutting-edge Infrared/Optical range imaging systems tailored for both space exploration and defense applications.
   - position: Computational Imaging Engineer
     company_name: Arcelik Global
     company_url: ''
     company_logo: ''
-    date_start: 2019-12
-    date_end: 2021-08
+    date_start: 2019-12-01
+    date_end: 2021-08-01
     summary: |
       - Designed and developed a consumer display system incorporating advanced techniques such as raytracing, computer vision, and deep learning. Devised a comprehensive backlight comparison model utilizing Python's SciPy and NumPy libraries to mathematically simulate backlight behavior. Implemented an intuitive user interface for the model with the PyQT5 library.
 
