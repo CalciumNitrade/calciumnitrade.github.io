@@ -6,8 +6,6 @@ event_url: https://www.dsaa2024-specialsession-data-driven-material-science.com/
 
 location: San Diego, CA
 address:
-  city: San Diego
-  region: CA
   country: United States
 
 summary: Graph Neural Networks for Materials Science
@@ -30,9 +28,9 @@ tags: []
 # Is this a featured talk? (true/false)
 featured: false
 
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
-  focal_point: Right
+#image:
+#  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+#  focal_point: Right
 
 #links:
 #  - icon: twitter
@@ -60,14 +58,14 @@ projects:
   - example
 ---
 
-{{% callout note %}}
-Click on the **Slides** button above to view the built-in slides feature.
-{{% /callout %}}
+#{{% callout note %}}
+#Click on the **Slides** button above to view the built-in slides feature.
+#{{% /callout %}}
 
-Slides can be added in a few ways:
+#Slides can be added in a few ways:
 
-- **Create** slides using Hugo Blox Builder's [_Slides_](https://docs.hugoblox.com/reference/content-types/) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/reference/markdown/).
-
-Further event details, including [page elements](https://docs.hugoblox.com/reference/markdown/) such as image galleries, can be added to the body of this page.
+#- **Create** slides using Hugo Blox Builder's [_Slides_](https://docs.hugoblox.com/reference/content-types/) feature and link using `slides` parameter in the front matter of the talk file
+#- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+#- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/reference/markdown/).
+#
+#Further event details, including [page elements](https://docs.hugoblox.com/reference/markdown/) such as image galleries, can be added to the body of this page.
