@@ -38,8 +38,8 @@ sections:
         I am a theoretical physicist turned computational scientist, dedicated to tackling some of the most intricate scientific challenges through advanced computational techniques. My expertise spans a range of methods, including density functional theory (DFT) and cutting-edge machine learning algorithms. Currently, my research is positioned at the intersection of materials science and generative AI, where I explore innovative applications in both computer vision and natural language processing.
         In addition to my academic endeavors, I bring over five years of professional experience in designing and developing sophisticated computational imaging and machine learning systems. My work has spanned various industries, including consumer electronics, defense, and space exploration, where I have contributed to cutting-edge solutions that push the boundaries of technology.
     design:
-      columns: 'auto'  # Ensure the content adapts to full width
-      css_class: full-width  # Custom CSS class to control the width
+      columns: '1'
+      css_style: "width: 100%; text-align: justify; padding: 0; margin: 0;"  # Inline styling to make the text fill the page
 #  - block: collection
 #    id: papers
 #    content:
