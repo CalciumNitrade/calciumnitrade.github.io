@@ -57,7 +57,7 @@ slides: ""
 projects:
   - example
 ---
-```
+<!-- 
 #{{% callout note %}}
 #Click on the **Slides** button above to view the built-in slides feature.
 #{{% /callout %}}
@@ -70,3 +70,4 @@ projects:
 #
 #Further event details, including [page elements](https://docs.hugoblox.com/reference/markdown/) such as image galleries, can be added to the body of this page.
 ```
+-->
