@@ -186,7 +186,7 @@ work:
     title: 'About Me'
     text: |-
       Howdy! I am a Ph.D. candidate in Computer Engineering at Texas A&M University, focusing on the intersection of generative AI and materials science. My research involves developing supervised and unsupervised machine learning models for novel material design and discovery, with a particular emphasis on integrating computer vision and natural language processing techniques. I hold a Master’s in Physics from Boğaziçi University, where I specialized in deep learning for laser micromachining, and a Bachelor’s in Physics Engineering from Hacettepe University, where I graduated as a top-ranking student.
-      
+
       Throughout my professional career, I have worked as a Senior Machine Learning Engineer at Wavebreak Media, leading projects in visual content generation and enhancement using state-of-the-art AI models. I also gained experience as a Computational Imaging Engineer at Aselsan and Arcelik, working on optical systems and computational methods for imaging and display technologies.
   design:
     columns: '1'  # Ensures content fills the full width
