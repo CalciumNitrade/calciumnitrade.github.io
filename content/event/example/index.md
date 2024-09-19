@@ -1,15 +1,11 @@
 ---
-title: Example Talk
+title: Graph Neural Networks for Materials Science
 
-event: Hugo Blox Builder Conference
-event_url: https://example.org
+event: The 11th IEEE International Conference on Data Science and Advanced Analytics - Special Session on Advancing Materials Science Through Data Science
+event_url: [Homepage](https://www.dsaa2024-specialsession-data-driven-material-science.com/homepage)
 
-location: Hugo Blox Builder HQ
+location: San Diego, CA
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
   country: United States
 
 summary: An example talk using Hugo Blox Builder's Markdown slides feature.
