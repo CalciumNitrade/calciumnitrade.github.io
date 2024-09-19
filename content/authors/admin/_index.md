@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Ph.D. Student | Machine Learning Engineer | Data Scientist
+role: Ph.D. Candidate | Machine Learning Engineer | Data Scientist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
