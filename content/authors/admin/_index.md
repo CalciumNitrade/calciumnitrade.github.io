@@ -67,7 +67,7 @@ education:
     date_start: 2019-08-30
     date_end: 2022-08-10
     summary: |
-      Worked at the intersection of computer vision and quantum lasers.
+      Worked at the intersection of computer vision and quantum lasers at <a href="https://academics.boun.edu.tr/parviz.elahi/">Elahi Lab</a>, led by <a href="https://scholar.google.com/citations?user=dZ5KCGgAAAAJ&hl=en">Dr. Parviz Elahi</a>.
   - area: BSc, Applied Physics
     institution: Hacettepe University
     date_start: 2014-09-01
