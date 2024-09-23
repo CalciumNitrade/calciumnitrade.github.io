@@ -5,8 +5,8 @@ authors:
 - Can Polat
 - Hasan Kurban
 - Mustafa Kurban
-date: '2025-01-01'
-publishDate: '2024-09-24T16:14:41.281793Z'
+date: '2024-09-23'
+publishDate: '2024-09-23T16:14:41.281793Z'
 publication_types:
 - article-journal
 publication: '*Computational Materials Science*'
