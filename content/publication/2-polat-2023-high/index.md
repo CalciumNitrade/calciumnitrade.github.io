@@ -5,8 +5,8 @@ authors:
 - Gizem Nuran Yapici
 - Sepehr Elahi
 - Parviz Elahi
-date: '2023-01-01'
-publishDate: '2023-01-01'
+date: '2023-09-01'
+publishDate: '2023-09-01'
 publication_types:
 - article-journal
 publication: '*Optics and Lasers in Engineering*'
