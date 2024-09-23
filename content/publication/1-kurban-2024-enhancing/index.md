@@ -6,7 +6,7 @@ authors:
 - Can Polat
 - Erchin Serpedin
 - Hasan Kurban
-date: '2024-01-01'
+date: '2024-09-13'
 publishDate: '2024-09-13T02:19:36.247578Z'
 publication_types:
 - article-journal
