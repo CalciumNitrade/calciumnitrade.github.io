@@ -40,19 +40,18 @@ sections:
     design:
       columns: '1'
       css_style: "width: 100%; text-align: justify; padding: 0; margin: 0;"  # Inline styling to make the text fill the page
-#  - block: collection
-#    id: papers
-#    content:
-#      title: Featured Publications
-#      filters:
-#        folders:
-#          - publication
-#        featured_only: true
-#    design:
-#      view: article-grid
-#      columns: 2
   - block: collection
     id: papers
+    content:
+      title: Featured Publications
+      filters:
+        folders:
+          - publication
+        featured_only: true
+    design:
+      view: article-grid
+      columns: 2
+  - block: collection
     content:
       title: Recent Publications
       text: ""
