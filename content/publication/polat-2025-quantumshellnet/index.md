@@ -16,7 +16,7 @@ abstract: Efficient and precise characterization of material properties is criti
 
 tags:
 - Source Themes
-featured: false
+featured: true
 
 # links:
 # - name: ""
