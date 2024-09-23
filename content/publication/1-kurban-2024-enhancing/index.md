@@ -17,7 +17,7 @@ abstract: In this study, an innovative approach is explored that combines Densit
 
 tags:
 - Source Themes
-featured: false
+featured: true
 
 # links:
 # - name: ""
