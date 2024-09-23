@@ -5,7 +5,7 @@ authors:
 - Can Polat
 - Hasan Kurban
 - Mustafa Kurban
-date: '2025-01-01'
+date: '2024-09-20'
 publishDate: '2024-09-20T16:14:41.281793Z'
 publication_types:
 - article-journal
