@@ -32,7 +32,7 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: 'My Research'
       subtitle: ''
       text: |-
         I am a theoretical physicist turned computational scientist, dedicated to tackling some of the most intricate scientific challenges through advanced computational techniques. My expertise spans a range of methods, including density functional theory (DFT) and cutting-edge machine learning algorithms. Currently, my research is positioned at the intersection of materials science and generative AI, where I explore innovative applications in both computer vision and natural language processing.
