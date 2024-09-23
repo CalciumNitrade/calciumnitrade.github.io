@@ -6,8 +6,8 @@ authors:
 - Can Polat
 - Erchin Serpedin
 - Hasan Kurban
-date: '2024-09-13'
-publishDate: '2024-09-13T02:19:36.247578Z'
+date: '2024-09-01'
+publishDate: '2024-09-01T02:19:36.247578Z'
 publication_types:
 - article-journal
 publication: '*Computational Materials Science*'
