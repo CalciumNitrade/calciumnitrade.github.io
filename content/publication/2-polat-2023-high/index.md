@@ -6,7 +6,7 @@ authors:
 - Sepehr Elahi
 - Parviz Elahi
 date: '2023-01-01'
-publishDate: '2024-09-13T02:19:36.256346Z'
+publishDate: '2023-01-01'
 publication_types:
 - article-journal
 publication: '*Optics and Lasers in Engineering*'
@@ -16,7 +16,7 @@ abstract: This work presents a precise positioning detection based on a convolut
 
 tags:
 - Source Themes
-featured: false
+featured: true
 
 # links:
 # - name: ""
