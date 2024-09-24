@@ -42,9 +42,9 @@ sections:
         Over the past five years, I have gained extensive industry experience in machine learning and computational imaging. As a Senior Machine Learning Engineer at Wavebreak Media, I led projects focused on visual content generation and enhancement. I developed and deployed machine learning models for tasks like text-to-image generation, super-resolution, and 3D asset reconstruction. In this role, I used tools such as AWS, Google Cloud, Flask, Docker, MySQL, and OpenSearch to build scalable AI systems that optimized user experience and data retrieval for millions of assets.
   
         Prior to this, I worked as a Computational Imaging Engineer at Aselsan and Arçelik, where I developed sophisticated optical systems for both defense and consumer electronics. I applied advanced computational techniques, including Fourier optics and ray tracing, to design imaging and display systems, further enhancing my expertise in computational methods and real-world engineering applications.
-  design:
-    columns: '2'
-    css_style: "width: 100%; text-align: justify; padding: 0; margin: 0;"  # Inline styling to make the text fill the page
+    design:
+      columns: '2'
+      css_style: "width: 100%; text-align: justify; padding: 0; margin: 0;"  # Inline styling to make the text fill the page
   - block: collection
     id: papers
     content:
