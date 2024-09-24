@@ -180,7 +180,7 @@ work:
 
 ## Howdy!
 <div style="text-align: justify;">
-I am a Ph.D. candidate in Computer Engineering at Texas A&M University, specializing in the integration of generative AI with materials science. My research leverages advanced techniques in computer vision and natural language processing to drive innovation in material design and discovery. I hold an M.Sc. in Physics from Boğaziçi University and a B.Sc. in Physics Engineering from Hacettepe University. 
+I am a Ph.D. candidate in Computer Engineering at Texas A&M University, specializing in the integration of generative AI with materials science. My research leverages advanced techniques in computer vision (CV) and natural language processing (NLP) to drive innovation in material design and discovery. I hold an M.Sc. in Physics from Boğaziçi University and a B.Sc. in Physics Engineering from Hacettepe University. 
 
 In addition to my academic career, I have five years of professional experience where I have successfully led projects across industries such as media, defense, and consumer electronics, in which I deployed state-of-the-art machine learning models and computational imaging systems to address complex real-world challenges.
 </div>
