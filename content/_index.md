@@ -38,6 +38,7 @@ sections:
       subtitle: ''
       text: |-
         I am a computational scientist working at the intersection of generative AI and materials science. My academic research explores advanced machine learning techniques, including supervised and unsupervised learning models for novel material discovery. I apply these methods using CV and NLP, particularly leveraging large language models (LLMs) to develop innovative solutions in materials science. I also utilize techniques like density functional theory (DFT) to support my work in materials design and property prediction. You can find my publications within the website or via my Google Scholar link.
+      While materials science remains a core focus, my interests are not limited to this field. I am also deeply fascinated by quantum lasers, where I have worked on integrating deep learning techniques for laser micromachining. Additionally, I am passionate about exploring the intersections of AI with various scientific domains, including drug discovery, energy storage, sustainability, medical imaging, diagnostic systems, and computational imaging, where machine learning can enhance accuracy and efficiency. My curiosity spans diverse areas of science, and I am always eager to expand my expertise into fields where AI can drive innovation and discovery.
     design:
       columns: 1
       css_style: "width: 100%; margin: 0 auto; text-align: justify;"
