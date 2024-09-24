@@ -40,7 +40,7 @@ sections:
         I am a computational scientist working at the intersection of generative AI and materials science. My academic research explores advanced machine learning techniques, including supervised and unsupervised learning models for novel material discovery. I apply these methods using CV and NLP, particularly leveraging large language models (LLMs) to develop innovative solutions in materials science. I also utilize techniques like density functional theory (DFT) to support my work in materials design and property prediction. You can find my publications within the website or via my Google Scholar link.
     design:
       columns: 1
-      css_style: "width: 60%; margin: 0 auto; text-align: center;"
+      css_style: "width: 100%; margin: 0 auto; text-align: justify;"
 
   - block: markdown
     content:
@@ -52,7 +52,7 @@ sections:
           Prior to this, I worked as a Computational Imaging Engineer at Aselsan and Arçelik, where I developed sophisticated optical systems for both defense and consumer electronics. I applied advanced computational techniques, including Fourier optics and ray tracing, to design imaging and display systems, further enhancing my expertise in computational methods and real-world engineering applications.
     design:
       columns: 1
-      css_style: "width: 60%; margin: 0 auto; text-align: center;"
+      css_style: "width: 100%; margin: 0 auto; text-align: justify;"
   - block: collection
     id: papers
     content:
