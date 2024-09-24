@@ -36,13 +36,11 @@ sections:
       subtitle: ''
       text: |-
         <div style="display: flex; justify-content: space-between; gap: 20px;">
-        <div style="width: 48%; text-align: justify; padding-right: 10px;">
-          ### Research Focus
+        <div style="width: 55%; text-align: justify; padding-right: 10px;">
           I am a computational scientist working at the intersection of generative AI and materials science. My academic research explores advanced machine learning techniques, including supervised and unsupervised learning models for novel material discovery. I apply these methods using computer vision and natural language processing, particularly leveraging large language models (LLMs) to develop innovative solutions in materials science. I also utilize techniques like density functional theory (DFT) to support my work in materials design and property prediction. You can find my publications within the website or via my Google Scholar link.
         </div>
   
-        <div style="width: 48%; text-align: justify; padding-left: 10px;">
-          ### Professional Experience
+        <div style="width: 55%; text-align: justify; padding-left: 10px;">
           Over the past five years, I have gained extensive industry experience in machine learning and computational imaging. As a Senior Machine Learning Engineer at Wavebreak Media, I led projects focused on visual content generation and enhancement. I developed and deployed machine learning models for tasks like text-to-image generation, super-resolution, and 3D asset reconstruction. In this role, I used tools such as AWS, Google Cloud, Flask, Docker, MySQL, and OpenSearch to build scalable AI systems that optimized user experience and data retrieval for millions of assets.
   
           Prior to this, I worked as a Computational Imaging Engineer at Aselsan and Arçelik, where I developed sophisticated optical systems for both defense and consumer electronics. I applied advanced computational techniques, including Fourier optics and ray tracing, to design imaging and display systems, further enhancing my expertise in computational methods and real-world engineering applications.
