@@ -53,22 +53,6 @@ sections:
     design:
       columns: 1
       css_style: "width: 48%; padding-left: 20px; text-align: left;"
-
-  # Content for the two sections side by side
-  - block: markdown
-    content:
-      text: |-
-        <div style="display: flex; justify-content: space-between; gap: 30px;">
-        <div style="width: 48%; text-align: justify;">
-          
-        </div>
-        <div style="width: 48%; text-align: justify;">
-          
-        </div>
-        </div>
-    design:
-      css_style: "width: 100%; text-align: justify; padding: 0; margin: 0;"  # Inline styling to make the text fill the page
-
   - block: collection
     id: papers
     content:
