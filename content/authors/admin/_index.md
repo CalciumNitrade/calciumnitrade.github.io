@@ -180,11 +180,5 @@ work:
 
 ## Howdy!
 <div style="text-align: justify;">
-I am a Ph.D. candidate in Computer Engineering at Texas A&M University, where my research lies at the intersection of generative AI and materials science. My work involves building both supervised and unsupervised machine learning models for novel material design and discovery, with an emphasis on integrating computer vision and natural language processing techniques using large language models (LLMs).
-
-I hold a Master’s in Physics from Boğaziçi University, where I developed deep learning models for laser micromachining applications, and a Bachelor’s in Physics Engineering from Hacettepe University, where I graduated as a top-ranking student.
-
-In my professional journey, I have gained extensive experience as a Senior Machine Learning Engineer at Wavebreak Media, where I led projects utilizing state-of-the-art machine learning models for visual content generation and enhancement. I worked with tools like AWS, Google Cloud, Flask, and Docker to build scalable APIs and deploy AI models. My projects included text-to-image generation, super-resolution, deblurring, and 3D asset reconstruction. I also developed recommendation systems by leveraging MySQL, OpenSearch, and Redis to efficiently index and retrieve millions of data points, enhancing user engagement on platforms like DesignWizard.
-
-Earlier in my career, I worked as a Computational Imaging Engineer at Aselsan and Arçelik. There, I focused on designing optical and display systems, using advanced computational methods such as Fourier optics, ray tracing, and deep learning for both defense and consumer electronics applications. I also utilized tools like PyQT5, MATLAB, and commercial software like Zemax and Lightools for system development and simulations.
+I am a Ph.D. candidate in Computer Engineering at Texas A&M University, specializing in the integration of generative AI with materials science. My research leverages advanced techniques in computer vision and natural language processing to drive innovation in material design and discovery. I hold an M.Sc. in Physics from Boğaziçi University and a B.Sc. in Physics Engineering from Hacettepe University. In addition to my academic career, I have five years of professional experience where I have successfully led projects across industries such as media, defense, and consumer electronics, in which I deployed state-of-the-art machine learning models and computational imaging systems to address complex real-world challenges.
 </div>
