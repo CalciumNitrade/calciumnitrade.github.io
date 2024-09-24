@@ -31,25 +31,40 @@ sections:
           position: center
           parallax: false
 
+  # Split the titles into separate blocks
   - block: markdown
     content:
-      title: 'Academic and Professional Career'
+      title: 'Research Focus'
       subtitle: ''
       text: |-
-        <div style="display: flex; justify-content: space-between; gap: 30px;">
+        I am a computational scientist working at the intersection of generative AI and materials science. My academic research explores advanced machine learning techniques, including supervised and unsupervised learning models for novel material discovery. I apply these methods using CV and NLP, particularly leveraging large language models (LLMs) to develop innovative solutions in materials science. I also utilize techniques like density functional theory (DFT) to support my work in materials design and property prediction. You can find my publications within the website or via my Google Scholar link.
+    design:
+      columns: 1
+      css_style: "width: 48%; padding-right: 20px; text-align: left;"
 
-        <div style="width: 48%; text-align: justify;">
-          ### Research Focus
-          I am a computational scientist working at the intersection of generative AI and materials science. My academic research explores advanced machine learning techniques, including supervised and unsupervised learning models for novel material discovery. I apply these methods using CV and NLP, particularly leveraging large language models (LLMs) to develop innovative solutions in materials science. I also utilize techniques like density functional theory (DFT) to support my work in materials design and property prediction. You can find my publications within the website or via my Google Scholar link.
-        </div>
-
-        <div style="width: 48%; text-align: justify;">
-          ### Professional Experience
-          Over the past five years, I have gained extensive industry experience in machine learning and computational imaging. As a Senior Machine Learning Engineer at Wavebreak Media, I led projects focused on visual content generation and enhancement. I developed and deployed machine learning models for tasks like text-to-image generation, super-resolution, and 3D asset reconstruction. In this role, I used tools such as AWS, Google Cloud, Flask, Docker, MySQL, and OpenSearch to build scalable AI systems that optimized user experience and data retrieval for millions of assets.
-
+  - block: markdown
+    content:
+      title: 'Professional Experience'
+      subtitle: ''
+      text: |-
+        Over the past five years, I have gained extensive industry experience in machine learning and computational imaging. As a Senior Machine Learning Engineer at Wavebreak Media, I led projects focused on visual content generation and enhancement. I developed and deployed machine learning models for tasks like text-to-image generation, super-resolution, and 3D asset reconstruction. In this role, I used tools such as AWS, Google Cloud, Flask, Docker, MySQL, and OpenSearch to build scalable AI systems that optimized user experience and data retrieval for millions of assets.
+          
           Prior to this, I worked as a Computational Imaging Engineer at Aselsan and Arçelik, where I developed sophisticated optical systems for both defense and consumer electronics. I applied advanced computational techniques, including Fourier optics and ray tracing, to design imaging and display systems, further enhancing my expertise in computational methods and real-world engineering applications.
-        </div>
+    design:
+      columns: 1
+      css_style: "width: 48%; padding-left: 20px; text-align: left;"
 
+  # Content for the two sections side by side
+  - block: markdown
+    content:
+      text: |-
+        <div style="display: flex; justify-content: space-between; gap: 30px;">
+        <div style="width: 48%; text-align: justify;">
+          
+        </div>
+        <div style="width: 48%; text-align: justify;">
+          
+        </div>
         </div>
     design:
       css_style: "width: 100%; text-align: justify; padding: 0; margin: 0;"  # Inline styling to make the text fill the page
