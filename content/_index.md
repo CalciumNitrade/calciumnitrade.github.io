@@ -32,7 +32,7 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: 'My Research'
+      title: 'Academic and Professional Career'
       subtitle: ''
       text: |-
         ## Research Focus
