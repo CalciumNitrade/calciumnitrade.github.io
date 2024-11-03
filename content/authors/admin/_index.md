@@ -82,12 +82,8 @@ work:
     date_start: 2022-11-01
     date_end: 2024-09-01
     summary: |2-
-      - Use and research of state-of-the-art computer vision models to create visual content. These methods include diffusion models for text-to-image generation, captioning for clustering, object detection for template creation, and superresolution.
-      - Recommendation systems.
-      - Wrapping API over the created/applied models.
-      - Train, fine-tune, and testing of ML models for a given task.
-      - Data engineering with AWS and cloud machine learning.
-      - Utilizing of Docker, Flask, Grafana, Git, and ArgoCD for DevOps.
+      - Use and research of state-of-the-art LLMs and CV models, focusing on a variety of applications such as image and video captioning, text suggestions, sentiment analysis, semantic search, text-to-image generation, object detection, deblurring, super-resolution. Additionally, NoSQL databases (e.g., Redis) are employed for efficient data storage and retrieval in addition to SQL. Design of recommendation systems
+      - For DevOps, tools like Flask, Docker, Grafana, Git, and ArgoCD are utilized.
   - position: Computational Imaging Engineer
     company_name: Aselsan Inc.
     company_url: ''
@@ -95,7 +91,7 @@ work:
     date_start: 2021-08-01
     date_end: 2022-11-01
     summary: |
-      - Leveraged computer graphics, computational imaging, and signal processing tools, including raytracing, Fourier optics, computer vision, and deep learning, to pioneer the design and development of cutting-edge Infrared/Optical range imaging systems tailored for both space exploration and defense applications.
+      - Leveraged computer graphics, computational imaging, and signal processing tools, including raytracing, Fourier optics, CV, and DL, to pioneer the design and development of cutting-edge Infrared/Optical range imaging systems tailored for both space exploration and defense applications.
   - position: Computational Imaging Engineer
     company_name: Arcelik Global
     company_url: ''
@@ -103,7 +99,7 @@ work:
     date_start: 2019-12-01
     date_end: 2021-08-01
     summary: |
-      - Designed and developed a consumer display system incorporating advanced techniques such as raytracing, computer vision, and deep learning. Devised a comprehensive backlight comparison model utilizing Python's SciPy and NumPy libraries to mathematically simulate backlight behavior. Implemented an intuitive user interface for the model with the PyQT5 library.
+      - Designed and developed a consumer display system incorporating advanced techniques such as raytracing, CV, and DL. Optimizing imaging system applications for cost effective solutions.
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 # skills:
@@ -180,7 +176,7 @@ work:
 
 ## Howdy!
 <div style="text-align: justify;">
-I am a Ph.D. candidate in Computer Engineering at Texas A&M University, specializing in the integration of generative AI with materials science. My research leverages advanced techniques in computer vision (CV) and natural language processing (NLP) to drive innovation in material design and discovery. I hold an M.Sc. in Physics from Boğaziçi University and a B.Sc. in Physics Engineering from Hacettepe University. 
+I am a Ph.D. candidate in Computer Engineering at Texas A&M University, focusing on the intersection of generative AI and materials science. My research employs cutting-edge techniques in computer vision (CV) and natural language processing (NLP) to advance material design and discovery. Additionally, I have served as a reviewer for prestigious conferences, including ICLR, KDD, and DSAA. I hold an M.Sc. in Physics from Boğaziçi University and a B.Sc. in Physics Engineering from Hacettepe University.
 
-In addition to my academic career, I have five years of professional experience where I have successfully led projects across industries such as media, defense, and consumer electronics, in which I deployed state-of-the-art machine learning models and computational imaging systems to address complex real-world challenges.
+Beyond my academic career, I have been professionally active since 2019, successfully leading projects across diverse industries, including media, defense, and consumer electronics. In these roles, I deployed state-of-the-art machine learning models and computational imaging systems to solve complex, real-world problems effectively.
 </div>
