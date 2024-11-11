@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Machine Learning Engineer | Data Scientist | Computational Scientist
+role: Machine Learning Engineer | Data Scientist/Engineer | Computational Scientist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -51,8 +51,8 @@ profiles:
 
 interests:
   - Machine Learning
-  - Materials Science
   - Computational Physics
+  - Materials Science
   - Computational Materials
 
 education:
@@ -62,7 +62,7 @@ education:
     date_end: 2027-12-30
     summary: |
       Working on generative AI for materials science at <a href="https://kurbanintelligencelab.com/">Kurban Intelligence Lab</a>, led by <a href="https://www.hasankurban.com/">Dr. Hasan Kurban</a>.
-  - area: MSc, Phyiscs
+  - area: MSc, Physics 
     institution: Bogazici University
     date_start: 2019-08-30
     date_end: 2022-08-10
