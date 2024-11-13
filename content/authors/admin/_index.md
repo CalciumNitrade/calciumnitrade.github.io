@@ -28,8 +28,6 @@ organizations:
     url: https://www.tamu.edu/index.html
   - name: Can Polat Y. B. & D. LTD. STI.
 
-
-
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
