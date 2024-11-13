@@ -3,7 +3,7 @@
 title: Can Polat
 
 # Name pronunciation (optional)
-name_pronunciation: John
+# name_pronunciation: John
 
 # Full name (for SEO)
 first_name: Can
