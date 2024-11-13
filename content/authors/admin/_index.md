@@ -26,7 +26,7 @@ role: Machine Learning Engineer | Data Scientist/Engineer | Computational Scient
 organizations:
   - name: Texas A&M University
   - name: Can Polat Yazilim Bilisim & Danismanlik LTD. STI.
-  - can.polat0@yahoo.com
+  - name: can.polat0@yahoo.com
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
