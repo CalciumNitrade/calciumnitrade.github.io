@@ -25,15 +25,15 @@ role: Machine Learning Engineer | Data Scientist/Engineer | Computational Scient
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: Texas A&M University
-    url: https://www.tamu.edu/index.html
-  - name: Can Polat Y. B. & D. LTD. STI.
+  - name: Can Polat Yazilim Bilisim & Danismanlik LTD. STI.
+  - can.polat0@yahoo.com
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: at-symbol
-    url: 'can.polat0@yahoo.com'
-    label: E-mail Me
+#  - icon: at-symbol
+#    url: 'can.polat0@yahoo.com'
+#    label: E-mail Me
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=ZtdUrpsAAAAJ&hl=en
   - icon: academicons/orcid
