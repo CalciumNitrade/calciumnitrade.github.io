@@ -18,7 +18,7 @@ doi: "https://doi.org/10.1117/12.2624383"
 abstract: This work explores a real-time and high precision focus finding for the ultrafast laser material processing for a different types of materials. Focus detection is essential for laser machining because an unfocused beam cannot affect the material and, at worst, a destructive effect. Here, we compare CNN and non-CNN-based approaches to focus detection, ultimately proposing a robust CNN model that can achieve high performance when only trained on a portion of the dataset. We use an ordinary lens (11 mm focal length, 0.25 NA) and a CMOS camera. Our robust CNN model achieved a focus prediction accuracy of 95% when identifying focus distances in {-150, -140,...,0,...,150} µm, each step is about 7% of the Rayleigh length, and a high processing speed of 1000+ Hz on a CPU
 
 tags:
-- Source Themes
+- Publications
 featured: false
 
 # links:
