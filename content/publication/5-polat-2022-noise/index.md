@@ -16,7 +16,7 @@ publication: '*CLEO: Applications and Technology*'
 abstract: We present a high-precision machine learning method to precisely control laser focus position. We experimentally verified it on different materials and achieved more than 95% accuracy. We simulated the effect of noise on the accuracy.
 
 tags:
-- Source Themes
+- Publications
 featured: false
 
 # links:
