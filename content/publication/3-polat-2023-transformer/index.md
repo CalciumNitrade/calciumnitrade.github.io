@@ -19,7 +19,7 @@ doi: "https://doi.org/10.1109/SIU59756.2023.10223991"
 abstract: Wide-field interferometric microscopy (WIM) has been utilized for visualization of individual biological nanoparticles with high sensitivity. However, the image quality is highly affected by the focusing of the image. Hence, focus detection has been an active research field within the scope of imaging and microscopy. To tackle this issue, we propose a novel convolution and transformer based deep learning technique to detect focus in WIM. The method is compared to other focus detecton techniques and is able to obtain higher precision with less number of parameters. Furthermore, the model achieves real-time focus detection thanks to its low inference time.
 
 tags:
-- Source Themes
+- Publications
 featured: false
 
 # links:
