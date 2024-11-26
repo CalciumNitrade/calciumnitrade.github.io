@@ -15,7 +15,7 @@ doi: "https://doi.org/10.1088/2632-2153/ad9708"
 abstract: Simulating complex and large materials is a demanding task that necessitates substantial domain knowledge and computational expertise. This study introduces Pure2DopeNet, an innovative multimodal neural network designed to address these challenges by combining image and text data for the accurate prediction of physical properties in doped compounds, specifically Carbon (C) doped TiO2 and Sulfur (S) doped ZnO nanoparticles (NPs). The model achieves quantum mechanical level accuracy, specifically comparable to density functional tight binding (DFTB), for various doping levels, demonstrating the ability to determine properties from a single simulation of the pure compound. Pure2DopeNet surpasses traditional deep learning architectures like ResNet, vision transformer, and CoAtNet, offering superior accuracy, faster performance, and a reduced reliance on domain expertise. This approach highlights the potential of multimodal machine learning to advance materials science by making high-fidelity simulations more accessible and efficient, opening new avenues for material discovery and exploration of novel properties.
 
 tags:
-- Source Themes
+- Publications
 featured: true
 
 # links:
