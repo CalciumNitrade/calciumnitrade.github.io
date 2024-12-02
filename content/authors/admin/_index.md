@@ -25,7 +25,7 @@ role: Machine Learning Engineer | Data Scientist/Engineer | Computational Scient
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: Texas A&M University
-  - name: Can Polat Yazilim Bilisim & Danismanlik LTD. STI.
+  - name: JPu AI & Software Consultancy 
   - name: can.polat0@yahoo.com
 
 # Social network links
