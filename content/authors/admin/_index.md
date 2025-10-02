@@ -25,7 +25,7 @@ role: Machine Learning Engineer | Software Developer | Computational Scientist
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: Texas A&M University
-  - name: JPu AI & Software Consultancy 
+  - name: Can Polat Software Consultancy 
   - name: can.polat0@yahoo.com
 
 # Social network links
@@ -57,7 +57,7 @@ education:
   - area: PhD, Computer Engineering
     institution: Texas A&M University
     date_start: 2024-01-01
-    date_end: 2027-12-30
+    date_end: 2027-06-15
     summary: |
       Working on generative AI for materials science at <a href="https://kurbanintelligencelab.com/">Kurban Intelligence Lab</a>, led by <a href="https://www.hasankurban.com/">Dr. Hasan Kurban</a>.
   - area: MSc, Physics 
@@ -74,14 +74,29 @@ education:
       Top Ranking graduate.
 work:
   - position: Senior Machine Learning Engineer
+    company_name: PwC
+    company_url: ''
+    company_logo: ''
+    date_start: 2025-05-01
+    date_end: 
+    summary: |
+      - Spearheaded the development of multi-agent systems using LangGraph, LangChain, LangSmith, and LLM tools to create intelligent chatbots, coding agents for Excel-based data processing, and retrieval-augmented generation applications. Focused on delivering solutions on Azure Cloud with integrated blob storage and indexing, while driving code reviews, leading projects, and mentoring junior developers to ensure high-quality outcomes.
+  - position: Senior Machine Learning Engineer
+    company_name: Eluvium AI
+    company_url: ''
+    company_logo: ''
+    date_start: 2024-12-01
+    date_end: 2025-08-01
+    summary: |
+      - Development multi-agent systems leveraging LangGraph, LangChain, and LLM tools to analyze email threads and track purchase orders with structured processing and adaptive decision-making. Designed graph-based agent workflows integrating long-term memory, planning, reasoning, reflection, and self-improving feedback loops for enhanced accuracy and adaptability. Incorporated a critique agent for decision evaluation and optimization, alongside a human-in-the-loop mechanism for validation and oversight. Design of evaluation framework using LangSmith.
+  - position: Senior Machine Learning Engineer
     company_name: Wavebreak Media Ltd.
     company_url: ''
     company_logo: ''
     date_start: 2022-11-01
     date_end: 2024-09-01
-    summary: |2-
-      - Use and research of state-of-the-art LLMs and CV models, focusing on a variety of applications such as image and video captioning, text suggestions, sentiment analysis, semantic search, text-to-image generation, object detection, deblurring, super-resolution. Additionally, NoSQL databases (e.g., Redis) are employed for efficient data storage and retrieval in addition to SQL. Design of recommendation systems
-      - For DevOps, tools like Flask, Docker, Grafana, Git, and ArgoCD are utilized.
+    summary: |
+      - Monetization, fine-tune, and research of state-of-the-art LLMs and CV models, focusing on a variety of applications such as image and video captioning, text suggestions, sentiment analysis, semantic search, text-to-image generation, object detection, deblurring, super-resolution, and 3D object/scene generation/reconstruction. Additionally, Flask/Fast/.NET is used to develop scalable services/APIs for these models. NoSQL databases (e.g., MongoDB, Redis) are employed for efficient data storage and retrieval in addition to SQL databases. Development of recommendation systems for sales optimization.
   - position: Computational Imaging Engineer
     company_name: Aselsan Inc.
     company_url: ''
@@ -89,7 +104,7 @@ work:
     date_start: 2021-08-01
     date_end: 2022-11-01
     summary: |
-      - Leveraged computer graphics, computational imaging, and signal processing tools, including raytracing, Fourier optics, CV, and DL, to pioneer the design and development of cutting-edge Infrared/Optical range imaging systems tailored for both space exploration and defense applications.
+      - Leveraged computer graphics, computational imaging, and signal processing tools, including raytracing, Fourier optics, computer vision, and deep learning, to pioneer the design and development of cutting-edge Infrared/Optical range imaging systems tailored for both space exploration and defense applications.
   - position: Computational Imaging Engineer
     company_name: Arcelik Global
     company_url: ''
@@ -97,7 +112,7 @@ work:
     date_start: 2019-12-01
     date_end: 2021-08-01
     summary: |
-      - Designed and developed a consumer display system incorporating advanced techniques such as raytracing, CV, and DL. Optimizing imaging system applications for cost effective solutions.
+      - Design and development of consumer display systems incorporating advanced techniques such as raytracing, computer vision, and deep learning. Creation of mobile and web apps using React. and Node.JS for backend applications in addition to Python.
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 # skills:
@@ -174,7 +189,7 @@ work:
 
 ## Howdy!
 <div style="text-align: justify;">
-I am a Ph.D. candidate in Computer Engineering at Texas A&M University, focusing on the intersection of generative AI and materials science. My research employs cutting-edge techniques in computer vision (CV) and natural language processing (NLP) to advance material design and discovery. Additionally, I have served as a reviewer for prestigious conferences, including ICLR, KDD, and DSAA. I hold an M.Sc. in Physics from Boğaziçi University and a B.Sc. in Physics Engineering from Hacettepe University.
+I am a Ph.D. candidate in Computer Engineering at Texas A&M University, focusing on the intersection of generative AI and materials science. My research employs cutting-edge techniques in computer vision and natural language processing to advance material design and discovery. I have publications in top tier conferences such as ICLR, CVPR, ICML, and ACL. Additionally, I have served as a reviewer for prestigious conferences, including ICLR, KDD, and DSAA. I hold an M.Sc. in Physics from Boğaziçi University and a B.Sc. in Physics Engineering from Hacettepe University.
 
 Beyond my academic career, I have been professionally active since 2019, successfully leading projects across diverse industries, including media, defense, and consumer electronics. In these roles, I deployed state-of-the-art machine learning models and computational imaging systems to solve complex, real-world problems effectively.
 </div>
