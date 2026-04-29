@@ -72,29 +72,12 @@ education:
     date_end: 2019-06-30
     summary: |
       Top Ranking graduate.
-work:
-  - position: Senior Machine Learning Engineer
-    company_name: PwC
-    company_url: ''
-    company_logo: ''
-    date_start: 2025-05-01
-    date_end: 
-    summary: |
-      - Spearheaded the development of multi-agent systems using LangGraph, LangChain, LangSmith, and LLM tools to create intelligent chatbots, coding agents for Excel-based data processing, and retrieval-augmented generation applications. Focused on delivering solutions on Azure Cloud with integrated blob storage and indexing, while driving code reviews, leading projects, and mentoring junior developers to ensure high-quality outcomes.
-  - position: Senior Machine Learning Engineer
-    company_name: Eluvium AI
-    company_url: ''
-    company_logo: ''
-    date_start: 2024-12-01
-    date_end: 2025-08-01
-    summary: |
-      - Development multi-agent systems leveraging LangGraph, LangChain, and LLM tools to analyze email threads and track purchase orders with structured processing and adaptive decision-making. Designed graph-based agent workflows integrating long-term memory, planning, reasoning, reflection, and self-improving feedback loops for enhanced accuracy and adaptability. Incorporated a critique agent for decision evaluation and optimization, alongside a human-in-the-loop mechanism for validation and oversight. Design of evaluation framework using LangSmith.
   - position: Senior Machine Learning Engineer
     company_name: Wavebreak Media Ltd.
     company_url: ''
     company_logo: ''
     date_start: 2022-11-01
-    date_end: 2024-09-01
+    date_end: 2023-12-31
     summary: |
       - Monetization, fine-tune, and research of state-of-the-art LLMs and CV models, focusing on a variety of applications such as image and video captioning, text suggestions, sentiment analysis, semantic search, text-to-image generation, object detection, deblurring, super-resolution, and 3D object/scene generation/reconstruction. Additionally, Flask/Fast/.NET is used to develop scalable services/APIs for these models. NoSQL databases (e.g., MongoDB, Redis) are employed for efficient data storage and retrieval in addition to SQL databases. Development of recommendation systems for sales optimization.
   - position: Computational Imaging Engineer
@@ -190,6 +173,4 @@ work:
 ## Howdy!
 <div style="text-align: justify;">
 I am a Ph.D. candidate in Computer Engineering at Texas A&M University, focusing on the intersection of generative AI and materials science. My research employs cutting-edge techniques in computer vision and natural language processing to advance material design and discovery. I have publications in top tier conferences such as ICLR, CVPR, ICML, and ACL. Additionally, I have served as a reviewer for prestigious conferences, including ICLR, KDD, and DSAA. I hold an M.Sc. in Physics from Boğaziçi University and a B.Sc. in Physics Engineering from Hacettepe University.
-
-Beyond my academic career, I have been professionally active since 2019, successfully leading projects across diverse industries, including media, defense, and consumer electronics. In these roles, I deployed state-of-the-art machine learning models and computational imaging systems to solve complex, real-world problems effectively.
 </div>
